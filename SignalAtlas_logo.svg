@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="SignalAtlas logo">
+<rect x="2" y="2" width="76" height="76" rx="22" fill="#171B2E" stroke="#A78BFA" stroke-opacity=".45" stroke-width="2"/>
+<path d="M18 59 38 21a3 3 0 0 1 5 0l19 38" fill="none" stroke="#A78BFA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m18 49 16-8 12 6 17-16" fill="none" stroke="#34D399" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M54 31h9v9" fill="none" stroke="#34D399" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
